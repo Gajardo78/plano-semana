@@ -1,0 +1,5 @@
+{
+  "name": "plano-semana-marketplace",
+  "owner": { "name": "Gajardo78" },
+  "plugins": [{ "name": "plano-semana", "source": "./" }]
+}
